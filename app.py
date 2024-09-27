@@ -33,7 +33,7 @@ if user_input:
     st.write(f"Recommendations: for you :\n {recommendations}")
 else:
     st.write(' ')
-# mukul.mschauhan@gmail.com
+
 
 
 
